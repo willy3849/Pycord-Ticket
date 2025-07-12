@@ -1,4 +1,5 @@
-discord
-dotenv
+discord==2.3.2
+py-cord==2.6.1
+dotenv==0.9.9
 datetime
-BeautifulSoup
+BeautifulSoup4==4.13.4
