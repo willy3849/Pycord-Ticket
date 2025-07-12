@@ -1,0 +1,12 @@
+{
+    "123456789012345678": {
+        "author": "User1",
+        "content": "Hello, this is a test message.",
+        "timestamp": "2023-10-01 12:00"
+    },
+    "987654321098765432": {
+        "author": "User2",
+        "content": "This is another test message.",
+        "timestamp": "2023-10-01 12:05"
+    }
+}
